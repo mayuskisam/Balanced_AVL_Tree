@@ -1,4 +1,4 @@
-input must be formatted with new lines between them:
+input must be formatted in the following way:
 
 number of commands to follow<br />
 command1<br />
