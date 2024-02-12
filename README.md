@@ -1,13 +1,13 @@
-input must be formatted in the following way:
+input must be formatted with new lines between them:
 
-number of commands to follow
-command1
-command2
-...
-commandn
+number of commands to follow<br />
+command1<br />
+command2<br />
+...<br />
+commandn<br />
 
-example:
-3
-insert "Sam" 12345678
-insert "Gloria" 23456789
+example:<br />
+3<br />
+insert "Sam" 12345678<br />
+insert "Gloria" 23456789<br />
 printInorder
