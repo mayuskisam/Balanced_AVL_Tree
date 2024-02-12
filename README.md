@@ -1,6 +1,6 @@
 input must be formatted in the following way:
 
-# of commands to follow
+number of commands to follow
 command1
 command2
 ...
